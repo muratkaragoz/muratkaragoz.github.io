@@ -33,10 +33,6 @@ https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_480p.m3u8
 #EXTINF:-1 tvg-id="TVNET.tr" tvg-name="TVNET"  tvg-logo="https://i.ibb.co/2jtzN6F/tvnet.png" group-title="HABER",TVNET
 https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8  
 
-#EXTINF:-1 tvg-id="Kanal7.tr" tvg-name="KANAL 7"  tvg-logo="https://i.ibb.co/dcC9pzY/kanal-7.png" group-title="ULUSAL",KANAL 7   
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-https://kanal7dvr.blutv.com/blutv_kanal7_dvr2/live_720p2000000kbps/index.m3u8
-
 #EXTINF:-1 tvg-id="Kanal7.tr" tvg-logo="https://i.imgur.com/0gq9xOm.png" group-title="Entertainment",Kanal 7 test
 https://kanal7-live.daioncdn.net/kanal7/kanal7_480p.m3u8
 
