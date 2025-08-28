@@ -4,7 +4,7 @@
 https://tv-trt1.medya.trt.com.tr/master.m3u8  
 
 #EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV"  tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" group-title="ULUSAL",ATV 
-http://89.187.191.41/ATV-HD-TR/video.m3u8  
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_480p.m3u8  
 
 #EXTINF:-1 tvg-id="StarTV.tr" tvg-name="STAR TV"  tvg-logo="https://i.ibb.co/hY3Z8zx/star-tv.png" group-title="ULUSAL",STAR TV
 https://dogus-live.daioncdn.net/startv/startv_480p.m3u8
@@ -155,10 +155,6 @@ https://saran-live.ercdn.net/disneyjunior/index.m3u8
 
 
 
-
-#EXTINF:-1 tvg-id="ATV.tr" tvg-logo="https://i.imgur.com/HyVUwFC.png" group-title="General",ATV test
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
-
 #EXTINF:-1 tvg-id="BabyTV.uk@Turkiye" tvg-logo="https://i.imgur.com/4BDJ5FT.png" group-title="Kids",BabyTV Turkiye (1080p) [Geo-blocked]
 https://saran-live.ercdn.net/babytv/index.m3u8
 
@@ -180,7 +176,7 @@ https://saran-live.ercdn.net/natgeowild/index.m3u8
 #EXTINF:-1 tvg-id="NOWTV.tr" tvg-logo="https://i.imgur.com/5EYjWK7.png" group-title="Entertainment",NOW TV test
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 
-#EXTINF:-1 tvg-id="TBMMTV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/TBMM_TV_logo.svg/512px-TBMM_TV_logo.svg.png" group-title="Undefined",TBMM TV (720p)
+#EXTINF:-1 tvg-id="TBMMTV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/TBMM_TV_logo.svg/512px-TBMM_TV_logo.svg.png" group-title="Undefined",TBMM TV ok
 https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
 
 #EXTINF:-1 tvg-id="TV4.tr" tvg-logo="https://i.imgur.com/UpsQsbd.png" group-title="Undefined",TV4 (720p)
@@ -193,8 +189,7 @@ https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 
 
 
-#EXTINF:-1 tvg-id="HTSpor.tr" tvg-name="BLOOMBERG HT"  tvg-logo="" group-title="Spor",HT Spor
-https://ciner-live.daioncdn.net/ht-spor/ht-spor_480p.m3u8 
+
 
 #EXTINF:-1 tvg-id="KralPopTV.tr" tvg-logo="https://i.imgur.com/ch365lh.png" group-title="Music",KRAL Pop TV
 https://dogus-live.daioncdn.net/kralpoptv/kralpoptv_480p.m3u8
@@ -419,6 +414,9 @@ https://tgn.bozztv.com/trn03/gt-eurostar/index.m3u8
 
 #EXTINF:-1 tvg-id="GSTV.tr" tvg-name="GS TV HD"  tvg-logo="https://i.ibb.co/6RqMpGT/gs-tv.png" group-title="SPOR",GS TV HD
 https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b1828000_sltur.m3u8  
+
+#EXTINF:-1 tvg-id="HTSpor.tr" tvg-name="BLOOMBERG HT"  tvg-logo="" group-title="Spor",HT Spor
+https://ciner-live.daioncdn.net/ht-spor/ht-spor_480p.m3u8 
 
 #EXTINF:-1 tvg-id="Kanal26.tr" tvg-logo="https://i.imgur.com/Mr7XPii.png" group-title="General",Kanal 26 (1080p)
 http://185.234.111.229:8000/play/a04e
