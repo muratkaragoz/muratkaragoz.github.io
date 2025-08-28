@@ -78,6 +78,15 @@ https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
 #EXTINF:-1 tvg-id="DreamTurk.tr" tvg-name="Dream Turk"  tvg-logo="https://i.ibb.co/fxRrKmB/dream-turk.png" group-title="MUZIK",DREAM TURK
 https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8  
 
+#EXTINF:-1 tvg-id="EBATVIlkokul.tr" tvg-name="EBA TV Ilkokul"  tvg-logo="https://i.imgur.com/CRBfZi4.png" group-title="Education",TRT EBA Ilkokul (720p)
+https://tv-e-okul00.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="EBATVOrtaokul.tr" tvg-name="EBA TV Ortaokul" tvg-logo="" group-title="Undefined",TRT EBA Ortaokul (720p)
+https://tv-e-okul01.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="EBATVLise.tr"  tvg-name="EBA TV Lise" tvg-logo="https://i.imgur.com/vj2L2L2.png" group-title="Education",TRT EBA Lise (720p)
+https://tv-e-okul02.medya.trt.com.tr/master.m3u8
+
 #EXTINF:-1 tvg-id="Ekoturk.tr" tvg-name="EKOTURK"  tvg-logo="https://i.ibb.co/F4csSTY/ekoturk.png" group-title="HABER",EKOTURK
 https://ythls.kekikakademi.org/youtube/channel/UCAGVKxpAKwXMWdmcHbrvcwQ.m3u8  
 
@@ -178,6 +187,9 @@ https://tgn.bozztv.com/dvrfl05/gin-minikacocuk/index.m3u8
 
 #EXTINF:-1 tvg-id="MinikaGo.tr" tvg-logo="https://i.imgur.com/qIoipDq.png" group-title="Kids",Minika Go (480p)
 https://tgn.bozztv.com/dvrfl05/gin-minikago/index.m3u8
+
+#EXTINF:-1 tvg-id="NOWTV.tr" tvg-logo="https://i.imgur.com/5EYjWK7.png" group-title="Entertainment",NOW TV (720p)
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 
 #EXTINF:-1 tvg-id="Number1Ask.tr" tvg-name="Number 1 Ask"  tvg-logo="https://i.ibb.co/5cJ0KtQ/nr1-ask.png" group-title="MUZIK",NR1 ASK
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8  
