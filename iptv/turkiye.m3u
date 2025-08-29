@@ -1,13 +1,13 @@
 #EXTM3U tvg-url="https://www.open-epg.com/files/turkey4.xml"
 #EXT-X-VERSION:3
 
-#EXTINF:-1 tvg-epgid="TRT 1.tr" tvg-id="TRT1.tr" tvg-name="TRT 1"  tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" group-title="ULUSAL",TRT 1 (480P)
+#EXTINF:-1 tvg-id="TRT 1.tr" tvg-name="TRT 1" tvg-language="tr" tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" group-title="ULUSAL",TRT 1 (480P)
 https://tv-trt1.medya.trt.com.tr/master_480.m3u8 
 
-#EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV"  tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" group-title="ULUSAL",ATV (480P)
+#EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV" tvg-language="tr"  tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" group-title="ULUSAL",ATV (480P)
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_480p.m3u8  
 
-#EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="SHOW TV"  tvg-logo="https://i.ibb.co/Rv0rWhZ/show.png" group-title="ULUSAL",SHOW TV (480P)
+#EXTINF:-1 tvg-id="SHOW TV.tr" tvg-name="SHOW TV" tvg-language="tr"  tvg-logo="https://i.ibb.co/Rv0rWhZ/show.png" group-title="ULUSAL",SHOW TV (480P)
 https://ciner-live.daioncdn.net/showtv/showtv_480p.m3u8
 
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-name="KANAL D"  tvg-logo="https://i.ibb.co/hf2mSz5/kanal-d.png" group-title="ULUSAL",KANAL D (480P)
