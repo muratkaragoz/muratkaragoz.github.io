@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://epg.tvcdn.net/guide/tr-guide.xml,https://iptv-org.github.io/epg/guides/tr.xml,https://iptv-org.github.io/epg/guides/tr/tvplus.com.tr.epg.xml,https://iptv-org.github.io/epg/guides/tr/digiturk.com.tr.epg.xml,https://iptv-org.github.io/epg/guides/tr/dsmart.com.tr.epg.xml,https://iptv-org.github.io/epg/guides/tr/turksatkablo.com.tr.epg.xml,https://my.iptv.community/epg_temp_dl/output-epgs/turkey.xml"
+#EXTM3U tvg-url="http://epg.tvcdn.net/guide/tr-guide.xml"
 
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1"  tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" group-title="ULUSAL",TRT 1 (480P)
 https://tv-trt1.medya.trt.com.tr/master_480.m3u8 
