@@ -1,7 +1,7 @@
-#EXTM3U tvg-url="https://www.open-epg.com/files/turkey4.xml.gz"
+#EXTM3U tvg-url="https://www.open-epg.com/files/turkey4.xml"
 #EXT-X-VERSION:3
 
-#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1"  tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" group-title="ULUSAL",TRT 1 (480P)
+#EXTINF:-1 tvg-epgid="TRT 1.tr" tvg-id="TRT1.tr" tvg-name="TRT 1"  tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" group-title="ULUSAL",TRT 1 (480P)
 https://tv-trt1.medya.trt.com.tr/master_480.m3u8 
 
 #EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV"  tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" group-title="ULUSAL",ATV (480P)
