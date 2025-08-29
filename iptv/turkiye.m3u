@@ -21,8 +21,8 @@ https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_480p.m3u8
 #EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV 8"  tvg-logo="https://i.ibb.co/Kr5SFY1/tv8.png" group-title="ULUSAL",TV 8 (480P)
 https://tv8-live.daioncdn.net/tv8/tv8_480p.m3u8 
 
-#EXTINF:-1 tvg-id="CNNTurk.tr" tvg-name="CNN TURK"  tvg-logo="https://i.ibb.co/bFsmkwJ/cnn-turk.png" group-title="HABER",CNN TURK test
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+#EXTINF:-1 tvg-id="CNNTurk.tr" tvg-name="CNN TURK"  tvg-logo="https://i.ibb.co/bFsmkwJ/cnn-turk.png" group-title="HABER",CNN TURK test 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 OPR/118.0.0.0
 https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8 
 
 #EXTINF:-1 tvg-name="NTV" tvg-id="NTV.tr" tvg-logo="https://i.ibb.co/gRR1zpm/ntv.png" group-title="HABER",NTV (480P)
