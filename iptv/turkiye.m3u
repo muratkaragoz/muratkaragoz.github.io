@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="http://epg.tvcdn.net/guide/tr-guide.xml,https://iptv-org.github.io/epg/guides/tr.xml,https://iptv-org.github.io/epg/guides/tr/tvplus.com.tr.epg.xml,https://iptv-org.github.io/epg/guides/tr/digiturk.com.tr.epg.xml,https://iptv-org.github.io/epg/guides/tr/dsmart.com.tr.epg.xml,https://iptv-org.github.io/epg/guides/tr/turksatkablo.com.tr.epg.xml,https://my.iptv.community/epg_temp_dl/output-epgs/turkey.xml"
 
-#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1"  tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" group-title="ULUSAL",TRT 1
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1"  tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" group-title="ULUSAL",TRT 1 (480P)
 https://tv-trt1.medya.trt.com.tr/master_480.m3u8 
 
 #EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV"  tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" group-title="ULUSAL",ATV (480P)
@@ -66,10 +66,10 @@ https://c.fulltvizle.com/ahaber/index.m3u8
 #https://tv.ensonhaber.com/tv24/tv24_720p.m3u8
 https://mn-nl.mncdn.com/kanal24/kanal24.smil/chunklist_b896000.m3u8
 
-#EXTINF:-1 tvg-id="TRT2.tr" tvg-name="TRT 2"  tvg-logo="https://i.ibb.co/0JcxnSL/trt-2.png" group-title="ULUSAL",TRT 2
+#EXTINF:-1 tvg-id="TRT2.tr" tvg-name="TRT 2"  tvg-logo="https://i.ibb.co/0JcxnSL/trt-2.png" group-title="ULUSAL",TRT 2 (480P)
 https://tv-trt2.medya.trt.com.tr/master_480.m3u8  
 
-#EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-name="TRT BELGESEL"  tvg-logo="https://i.ibb.co/MkvY46q/trt-belgesel.png" group-title="BELGESEL",TRT BELGESEL
+#EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-name="TRT BELGESEL"  tvg-logo="https://i.ibb.co/MkvY46q/trt-belgesel.png" group-title="BELGESEL",TRT BELGESEL (480P)
 https://tv-trtbelgesel.medya.trt.com.tr/master_480.m3u8  
 
 #EXTINF:-1 tvg-id="TGRT.Belgesel.tr" tvg-name="TGRT BELGESEL"  tvg-logo="https://i.ibb.co/DkBWyDB/tgrt-belgesel.png" group-title="BELGESEL",TGRT BELGESEL
@@ -97,10 +97,10 @@ https://c.fulltvizle.com/aspor/index.m3u8
 #EXTINF:-1 tvg-name="beIN SPORTS HABER" tvg-id="beINSportsHaber.tr" tvg-id="beIN SPORTS HABER" tvg-logo="https://i.ibb.co/GdkQ5mY/bein-sports-haber.png" group-title="SPOR",beIN SPORTS HABER
 https://tgn.bozztv.com/dvrfl05/gin-beinsportshaber/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="TRTSpor.tr" tvg-name="TRT SPOR"  tvg-logo="https://i.ibb.co/WxD4PLG/trt-spor.png" group-title="SPOR",TRT SPOR
+#EXTINF:-1 tvg-id="TRTSpor.tr" tvg-name="TRT SPOR"  tvg-logo="https://i.ibb.co/WxD4PLG/trt-spor.png" group-title="SPOR",TRT SPOR (480P)
 https://tv-trtspor1.medya.trt.com.tr/master_480.m3u8  
 
-#EXTINF:-1 tvg-id="TRTSporYildiz.tr" tvg-name="TRT SPOR YILDIZ"  tvg-logo="https://i.ibb.co/YRgKcDn/trt-spor-yildiz.png" group-title="SPOR",TRT SPOR YILDIZ
+#EXTINF:-1 tvg-id="TRTSporYildiz.tr" tvg-name="TRT SPOR YILDIZ"  tvg-logo="https://i.ibb.co/YRgKcDn/trt-spor-yildiz.png" group-title="SPOR",TRT SPOR YILDIZ (480P)
 https://tv-trtspor2.medya.trt.com.tr/master_480.m3u8 
 
 #EXTINF:-1 tvg-id="TJKTV.tr" tvg-name="TJK TV"  tvg-logo="https://i.ibb.co/PrkXrRn/tjk-tv.png" group-title="SPOR",TJK TV
@@ -109,7 +109,7 @@ https://tjktv-live.tjk.org/tjktv_1080p.m3u8
 #EXTINF:-1 tvg-id="FBTV.tr" tvg-name="FB TV"  tvg-logo="https://i.ibb.co/315SYpK/fb-tv.png" group-title="SPOR",FB TV
 https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8 
 
-#EXTINF:-1 tvg-id="TRTTurk.tr" tvg-name="TRT Turk"  tvg-logo="https://i.ibb.co/zN1BK38/trt-turk.png" group-title="ULUSAL",TRT TURK
+#EXTINF:-1 tvg-id="TRTTurk.tr" tvg-name="TRT Turk"  tvg-logo="https://i.ibb.co/zN1BK38/trt-turk.png" group-title="ULUSAL",TRT TURK (480P)
 https://tv-trtturk.medya.trt.com.tr/master_480.m3u8  
 
 #EXTINF:-1 tvg-id="FlashTV.tr" tvg-name="Flash TV"  tvg-logo="https://i.ibb.co/8cP5NzX/flash-haber.png" group-title="HABER",FLASH HABER
@@ -136,7 +136,7 @@ https://raw.githubusercontent.com/rideordie16/YouTube/main/ch/showmax.m3u8
 #EXTINF:-1 tvg-id="MinikaCocuk.tr" tvg-logo="https://i.imgur.com/VCywMTv.png" group-title="Kids",Minika Cocuk (480p)
 https://tgn.bozztv.com/dvrfl05/gin-minikacocuk/index.m3u8
 
-#EXTINF:-1 tvg-id="TRTCocuk.tr" tvg-name="TRT COCUK"  tvg-logo="https://i.ibb.co/mbvwYMB/trt-cocuk.png" group-title="ULUSAL",TRT COCUK
+#EXTINF:-1 tvg-id="TRTCocuk.tr" tvg-name="TRT COCUK"  tvg-logo="https://i.ibb.co/mbvwYMB/trt-cocuk.png" group-title="ULUSAL",TRT COCUK (480P)
 https://tv-trtcocuk.medya.trt.com.tr/master_480.m3u8  
 
 #EXTINF:-1 tvg-id="MinikaGo.tr" tvg-logo="https://i.imgur.com/qIoipDq.png" group-title="Kids",Minika Go (480p)
@@ -216,13 +216,13 @@ https://live.artidijitalmedya.com/artidijital_diyartv/diyartv/playlist.m3u8
 #EXTINF:-1 tvg-id="DreamTurk.tr" tvg-name="Dream Turk"  tvg-logo="https://i.ibb.co/fxRrKmB/dream-turk.png" group-title="MUZIK",DREAM TURK
 https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8  
 
-#EXTINF:-1 tvg-id="EBATVIlkokul.tr" tvg-name="EBA TV Ilkokul"  tvg-logo="https://i.imgur.com/CRBfZi4.png" group-title="Education",TRT EBA Ilkokul (720p)
+#EXTINF:-1 tvg-id="EBATVIlkokul.tr" tvg-name="EBA TV Ilkokul"  tvg-logo="https://i.imgur.com/CRBfZi4.png" group-title="Education",TRT EBA Ilkokul (480P)
 https://tv-e-okul00.medya.trt.com.tr/master_480.m3u8
 
-#EXTINF:-1 tvg-id="EBATVOrtaokul.tr" tvg-name="EBA TV Ortaokul" tvg-logo="" group-title="Undefined",TRT EBA Ortaokul (720p)
+#EXTINF:-1 tvg-id="EBATVOrtaokul.tr" tvg-name="EBA TV Ortaokul" tvg-logo="" group-title="Undefined",TRT EBA Ortaokul (480P)
 https://tv-e-okul01.medya.trt.com.tr/master_480.m3u8
 
-#EXTINF:-1 tvg-id="EBATVLise.tr"  tvg-name="EBA TV Lise" tvg-logo="https://i.imgur.com/vj2L2L2.png" group-title="Education",TRT EBA Lise (720p)
+#EXTINF:-1 tvg-id="EBATVLise.tr"  tvg-name="EBA TV Lise" tvg-logo="https://i.imgur.com/vj2L2L2.png" group-title="Education",TRT EBA Lise (480P)
 https://tv-e-okul02.medya.trt.com.tr/master_480.m3u8
 
 #EXTINF:-1 tvg-id="Ekoturk.tr" tvg-name="EKOTURK"  tvg-logo="https://i.ibb.co/F4csSTY/ekoturk.png" group-title="HABER",EKOTURK
@@ -414,16 +414,16 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/tmb-tv.m
 #EXTINF:-1 tvg-id="TonTV.tr" tvg-logo="https://i.imgur.com/f0Soeob.png" group-title="Undefined",Ton TV
 https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TRT3.tr" tvg-logo="https://i.imgur.com/JrWFwBd.png" group-title="Undefined",TRT 3
+#EXTINF:-1 tvg-id="TRT3.tr" tvg-logo="https://i.imgur.com/JrWFwBd.png" group-title="Undefined",TRT 3 (480P)
 https://tv-trt3.live.trt.com.tr/master_480.m3u8
 
-#EXTINF:-1 tvg-id="TRTAvaz.tr" tvg-name="TRT AVAZ"  tvg-logo="https://i.ibb.co/Mnhmxsn/trt-avaz.png" group-title="BELGESEL",TRT AVAZ
+#EXTINF:-1 tvg-id="TRTAvaz.tr" tvg-name="TRT AVAZ"  tvg-logo="https://i.ibb.co/Mnhmxsn/trt-avaz.png" group-title="BELGESEL",TRT AVAZ (480P)
 https://tv-trtavaz.medya.trt.com.tr/master_480.m3u8 
 
-#EXTINF:-1 tvg-id="TRTDiyanetCocuk.tr" tvg-logo="https://i.imgur.com/8PmXz9t.png" group-title="Kids",TRT Diyanet Çocuk (720p)
+#EXTINF:-1 tvg-id="TRTDiyanetCocuk.tr" tvg-logo="https://i.imgur.com/8PmXz9t.png" group-title="Kids",TRT Diyanet Çocuk (480P)
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_480.m3u8
 
-#EXTINF:-1 tvg-id="TRTMuzik.tr" tvg-name="TRT Muzik"  tvg-logo="https://i.ibb.co/4gbPpzC/trt-muzik.png" group-title="MUZIK",TRT MUZIK
+#EXTINF:-1 tvg-id="TRTMuzik.tr" tvg-name="TRT Muzik"  tvg-logo="https://i.ibb.co/4gbPpzC/trt-muzik.png" group-title="MUZIK",TRT MUZIK (480P)
 https://tv-trtmuzik.medya.trt.com.tr/master_480.m3u8
 
 #EXTINF:-1 tvg-id="TurkHaberTV.tr" tvg-name="TURKHABER"  tvg-logo="https://i.ibb.co/ySv65wg/turk-haber.png" group-title="HABER",TURKHABER
