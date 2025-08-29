@@ -1,4 +1,4 @@
-#EXTM3U tvg-url="http://epg.tvcdn.net/guide/tr-guide.xml"
+#EXTM3U tvg-url="https://www.open-epg.com/files/turkey4.xml.gz"
 #EXT-X-VERSION:3
 
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1"  tvg-logo="https://i.ibb.co/qJnvXJQ/show-max.png" group-title="ULUSAL",TRT 1
