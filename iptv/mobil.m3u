@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1" tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" group-title="ULUSAL",TRT 1 (480P)
-https://tv-trt1.medya.trt.com.tr/master_144.m3u8 
+https://tv-trt1.medya.trt.com.tr/master_360p.m3u8 
 
 #EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV" tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" group-title="ULUSAL",ATV (480P)
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_480p.m3u8  
