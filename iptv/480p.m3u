@@ -146,19 +146,19 @@ https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 #EXTINF:-1 tvg-id="APara.tr" tvg-name="A PARA HD"  tvg-logo="https://i.ibb.co/FnT7ftQ/a-para.png" group-title="HABER",A PARA HD 
 http://185.234.111.229:8000/play/a01l   
 
-#EXTINF:-1 tvg-id="MinikaCocuk.tr" tvg-logo="https://i.imgur.com/VCywMTv.png" group-title="Kids",Minika Cocuk (480p)
-https://tgn.bozztv.com/dvrfl05/gin-minikacocuk/index.m3u8
+#EXTINF:-1 tvg-id="MinikaCocuk.tr" tvg-logo="https://i.imgur.com/VCywMTv.png" group-title="Kids",Minika Cocuk WEB
+#https://trkvz.daioncdn.net/minikago_cocuk/minikago_cocuk.m3u8?app=web&ce=3
+https://trkvz.daioncdn.net/minikago_cocuk/minikago_cocuk.m3u8?app=mweb&ce=3
 
 #EXTINF:-1 tvg-id="TRTCocuk.tr" tvg-name="TRT COCUK"  tvg-logo="https://i.ibb.co/mbvwYMB/trt-cocuk.png" group-title="ULUSAL",TRT COCUK (480P)
 https://tv-trtcocuk.medya.trt.com.tr/master_480.m3u8  
 
-#EXTINF:-1 tvg-id="MinikaGo.tr" tvg-logo="https://i.imgur.com/qIoipDq.png" group-title="Kids",Minika Go (480p)
-https://tgn.bozztv.com/dvrfl05/gin-minikago/index.m3u8
+#EXTINF:-1 tvg-id="MinikaGo.tr" tvg-logo="https://i.imgur.com/qIoipDq.png" group-title="Kids",Minika Go WEB
+#https://trkvz.daioncdn.net/minikago/minikago.m3u8?app=web&ce=3
+https://trkvz.daioncdn.net/minikago/minikago.m3u8?app=mweb&ce=3
 
 #EXTINF:-1 tvg-id="DisneyJr.tr" tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/disneyjr.png" group-title="Animation;Kids",Disney Jr. (1080p) [Geo-blocked]
 https://saran-live.ercdn.net/disneyjunior/index.m3u8
-
-
 
 #EXTINF:-1 tvg-id="AdaTV.cy" tvg-logo="https://i.imgur.com/YWmkUWU.png" group-title="General",ADA TV Kibris (480P)
 https://sc-kuzeykibrissmarttv.ercdn.net/adatv/bant1/playlist_480p.m3u8
@@ -362,10 +362,6 @@ https://live.artidijitalmedya.com/artidijital_mercantv/mercantv/playlist.m3u8
 #EXTINF:-1 tvg-id="MilyonTV.tr" tvg-logo="https://i.imgur.com/lEIFDwo.png" group-title="Entertainment",Milyon TV (720p)
 https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8
 
-#EXTINF:-1 tvg-id="Minikago.tr" tvg-logo="" group-title="Entertainment",MinikaGo WEB
-#https://trkvz.daioncdn.net/minikago/minikago.m3u8?app=web&ce=3
-https://trkvz.daioncdn.net/minikago/minikago.m3u8?app=mweb&ce=3
-
 #EXTINF:-1 tvg-id="Number1Ask.tr" tvg-name="Number 1 Ask"  tvg-logo="https://i.ibb.co/5cJ0KtQ/nr1-ask.png" group-title="MUZIK",NR1 ASK
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8  
 
@@ -480,8 +476,8 @@ https://vdo.digitalbox.xyz:3986/live/unitvlive.m3u8
 #EXTINF:-1 tvg-id="UrfaNatikTV.tr" tvg-logo="https://i.imgur.com/8KO0uxn.png" group-title="Undefined",Urfa Natik TV
 https://live.artidijitalmedya.com/artidijital_urfanatiktv/urfanatiktv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="VavTV.tr" tvg-logo="https://i.imgur.com/jw0gB8L.png" group-title="Undefined",Vav TV (1080p)
-http://185.234.111.229:8000/play/a01n
+#EXTINF:-1 tvg-id="VavTV.tr" tvg-logo="https://i.imgur.com/jw0gB8L.png" group-title="Undefined",Vav TV WEB
+https://trkvz-live.ercdn.net/varvndvr/varvndvr.m3u8
 
 #EXTINF:-1 tvg-id="VuslatTV.tr" tvg-logo="" group-title="Undefined",Malatya Vuslat TV 
 https://live.artidijitalmedya.com/artidijital_vuslattv/vuslattv/playlist.m3u8
