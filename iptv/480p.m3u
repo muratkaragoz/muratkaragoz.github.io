@@ -8,7 +8,7 @@ https://tv-trt1.medya.trt.com.tr/master_480.m3u8
 #https://trkvz-live.daioncdn.net/atv/atv.m3u8
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_480p.m3u8  
 
-#EXTINF:-1 tvg-id="SHOWTV.tr" tvg-name="SHOW TV" tvg-logo="https://i.ibb.co/Rv0rWhZ/show.png" group-title="ULUSAL",SHOW TV (480P)
+#EXTINF:-1 tvg-id="SHOWTV.tr" tvg-name="SHOW TV" tvg-logo="https://i.ibb.co/Rv0rWhZ/show.png" group-title="ULUSAL",SHOW TV WEB
 #https://mo.ciner.com.tr/showtv/live/showtv.m3u8
 https://ciner.daioncdn.net/showtv/showtv.m3u8?app=showtv_web&ce=3
 
@@ -22,7 +22,7 @@ https://dogus.daioncdn.net/startv/startv.m3u8?app=startv_web&ce=3
 #https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_480p.m3u8
 
-#EXTINF:-1 tvg-id="Kanal7.tr" tvg-logo="https://i.imgur.com/0gq9xOm.png" group-title="Entertainment",Kanal 7 (480P)
+#EXTINF:-1 tvg-id="Kanal7.tr" tvg-logo="https://i.imgur.com/0gq9xOm.png" group-title="Entertainment",Kanal 7 WEB
 #https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8
 https://kanal7.daioncdn.net/kanal7/kanal7.m3u8?app=f99587ad-1637-494d-8255-da35b09d17a1&ce=3
 
@@ -46,7 +46,7 @@ https://demiroren-live.daioncdn.net/teve2/teve2_480p.m3u8
 #EXTINF:-1 tvg-id="A2TV.tr" tvg-name="A2 HD"  tvg-logo="https://i.ibb.co/7WTsG83/a2.png" group-title="ULUSAL",A2 
 http://185.234.111.229:8000/play/a01m
 
-#EXTINF:-1 tvg-id="ShowTurk.tr" tvg-name="Show Türk"  tvg-logo="https://i.ibb.co/qJnvXJQ/show-turk.png" group-title="ULUSAL",Show Türk
+#EXTINF:-1 tvg-id="ShowTurk.tr" tvg-name="Show Türk"  tvg-logo="https://i.ibb.co/qJnvXJQ/show-turk.png" group-title="ULUSAL",Show Türk WEB
 https://ciner-live.ercdn.net/showturk/playlist.m3u8?e=1760831238&st=_u3Gh-47Gw09BkNLQSeD2A&tv=1
 
 #EXTINF:-1 tvg-id="ShowMax.tr" tvg-name="SHOW MAX"  tvg-logo="https://i.ibb.co/qJnvXJQ/show-max.png" group-title="ULUSAL",SHOW MAX
