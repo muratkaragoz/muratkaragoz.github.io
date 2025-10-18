@@ -9,16 +9,17 @@ https://tv-trt1.medya.trt.com.tr/master_480.m3u8
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_480p.m3u8  
 
 #EXTINF:-1 tvg-id="SHOWTV.tr" tvg-name="SHOW TV" tvg-logo="https://i.ibb.co/Rv0rWhZ/show.png" group-title="ULUSAL",SHOW TV (480P)
-https://ciner.daioncdn.net/showtv/showtv.m3u8?app=showtv_web&ce=3
 #https://ciner-live.daioncdn.net/showtv/showtv_480p.m3u8
+https://ciner.daioncdn.net/showtv/showtv.m3u8?app=showtv_web&ce=3
 
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-name="KANAL D"  tvg-logo="https://i.ibb.co/hf2mSz5/kanal-d.png" group-title="ULUSAL",KANAL D (480P)
-https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
 #https://demiroren-live.daioncdn.net/kanald/kanald_480p.m3u8 
+https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
 
 #EXTINF:-1 tvg-id="StarTV.tr" tvg-name="STAR TV"  tvg-logo="https://i.ibb.co/hY3Z8zx/star-tv.png" group-title="ULUSAL",STAR TV (480P)
-https://dogus.daioncdn.net/startv/startv.m3u8?app=startv_web&ce=3
+#https://dogus.daioncdn.net/startv/startv.m3u8?app=startv_web&ce=3
 #https://dogus-live.daioncdn.net/startv/startv_480p.m3u8
+https://dogus-live.daioncdn.net/startv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NOWTV.tr" tvg-logo="https://i.imgur.com/5EYjWK7.png" group-title="Entertainment",NOW TV (480P)
 #https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
