@@ -44,8 +44,8 @@ https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_480p.m3u8
 #EXTINF:-1 tvg-id="Teve2.tr" tvg-logo="https://i.ibb.co/JRpJc2P/teve2.png" group-title="Undefined",Teve2 (480P)
 https://demiroren-live.daioncdn.net/teve2/teve2_480p.m3u8  
 
-#EXTINF:-1 tvg-id="A2TV.tr" tvg-name="A2 HD"  tvg-logo="https://i.ibb.co/7WTsG83/a2.png" group-title="ULUSAL",A2 
-http://185.234.111.229:8000/play/a01m
+#EXTINF:-1 tvg-id="A2TV.tr" tvg-name="A2"  tvg-logo="https://i.ibb.co/7WTsG83/a2.png" group-title="ULUSAL",A2 WEB
+https://trkvz.daioncdn.net/a2tv/a2tv.m3u8?ce=3&app=59363a60-be96-4f73-9eff-355d0ff2c758
 
 #EXTINF:-1 tvg-id="ShowTurk.tr" tvg-name="Show Türk"  tvg-logo="https://i.ibb.co/qJnvXJQ/show-turk.png" group-title="ULUSAL",Show Türk WEB
 https://ciner-live.ercdn.net/showturk/playlist.m3u8?e=1760831238&st=_u3Gh-47Gw09BkNLQSeD2A&tv=1
@@ -361,6 +361,10 @@ https://live.artidijitalmedya.com/artidijital_mercantv/mercantv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MilyonTV.tr" tvg-logo="https://i.imgur.com/lEIFDwo.png" group-title="Entertainment",Milyon TV (720p)
 https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8
+
+#EXTINF:-1 tvg-id="Minikago.tr" tvg-logo="" group-title="Entertainment",MinikaGo WEB
+#https://trkvz.daioncdn.net/minikago/minikago.m3u8?app=web&ce=3
+https://trkvz.daioncdn.net/minikago/minikago.m3u8?app=mweb&ce=3
 
 #EXTINF:-1 tvg-id="Number1Ask.tr" tvg-name="Number 1 Ask"  tvg-logo="https://i.ibb.co/5cJ0KtQ/nr1-ask.png" group-title="MUZIK",NR1 ASK
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8  
