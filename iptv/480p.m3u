@@ -291,7 +291,8 @@ https://live.artidijitalmedya.com/artidijital_kanal26/kanal26/playlist.m3u8
 https://live.artidijitalmedya.com/artidijital_kanal58/kanal58/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Kanal7Avrupa.tr" tvg-name="KANAL 7 AVRUPA"  tvg-logo="https://i.ibb.co/F4P8ddm/kanal-7-avrupa.png" group-title="ULUSAL",KANAL 7 AVRUPA
-https://livetv.radyotvonline.net/kanal7live/kanal7avr/chunklist.m3u8  
+#https://livetv.radyotvonline.net/kanal7live/kanal7avr/chunklist.m3u8  
+https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="KanalB.tr" tvg-logo="https://i.imgur.com/bUsbxTQ.png" group-title="General",Kanal B (576p)
 http://185.234.111.229:8000/play/a01b
