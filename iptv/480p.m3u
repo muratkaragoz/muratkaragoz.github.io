@@ -6,18 +6,19 @@ https://trt.daioncdn.net/trt-1/master.m3u8?app=clean
 
 #EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV" tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" group-title="ULUSAL",ATV WEB
 #https://trkvz.daioncdn.net/atv/atv.m3u8?ce=3&app=d1ce2d40-5256-4550-b02e-e73c185a314e
-https://trkvz.daioncdn.net/atv/atv.m3u8?ce=3&app=d5eb593f-39d9-4b01-9cfd-4748e8332cf0
+#https://trkvz.daioncdn.net/atv/atv.m3u8?ce=3&app=d5eb593f-39d9-4b01-9cfd-4748e8332cf0
+https://trkvz.daioncdn.net/atv/atv.m3u8?app=mweb&ce=3
 
 #EXTINF:-1 tvg-id="SHOWTV.tr" tvg-name="SHOW TV" tvg-logo="https://i.ibb.co/Rv0rWhZ/show.png" group-title="ULUSAL",SHOW TV WEB
 #https://mo.ciner.com.tr/showtv/live/showtv.m3u8
 #https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&st=RBzhSuGauna0OGld-DJUVA&e=1664766175&tv=1
-https://ciner.daioncdn.net/showtv/showtv.m3u8?app=showtv_web&ce=3
+https://ciner.daioncdn.net/showtv/showtv.m3u8?app=showtv_mweb&ce=3
 
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-name="KANAL D"  tvg-logo="https://i.ibb.co/hf2mSz5/kanal-d.png" group-title="ULUSAL",KANAL D (480P)
-https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
+https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_mweb&ce=3
 
 #EXTINF:-1 tvg-id="StarTV.tr" tvg-name="STAR TV"  tvg-logo="https://i.ibb.co/hY3Z8zx/star-tv.png" group-title="ULUSAL",STAR TV (480P)
-https://dogus.daioncdn.net/startv/startv.m3u8?app=startv_web&ce=3
+https://dogus.daioncdn.net/startv/startv.m3u8?app=startv_mweb&ce=3
 
 #EXTINF:-1 tvg-id="NOWTV.tr" tvg-logo="https://i.imgur.com/5EYjWK7.png" group-title="Entertainment",NOW TV (480P)
 #https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
