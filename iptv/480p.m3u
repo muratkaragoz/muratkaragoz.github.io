@@ -461,6 +461,7 @@ https://sc-kuzeykibrissmarttv.ercdn.net/tv2020/bantp1/playlist_480p.m3u8
 http://stream.taksimbilisim.com:1935/tv52/smil:tv52.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV85.tr" tvg-name="TV 8.5"  tvg-logo="https://i.ibb.co/6PRYHdW/tv85.png" group-title="SPOR",TV 8.5 (480P)
+#https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk.m3u8
 https://tv8-live.daioncdn.net/tv8bucuk/tv8bucuk_480p.m3u8  
 
 #EXTINF:-1 tvg-id="TV8International.tr" tvg-name="TV8 International"  tvg-logo="https://i.ibb.co/ykSLX8Q/tv8-int.png" group-title="ULUSAL",TV 8 INT
