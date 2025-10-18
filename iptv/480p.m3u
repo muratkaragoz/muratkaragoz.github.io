@@ -9,7 +9,9 @@ https://tv-trt1.medya.trt.com.tr/master_480.m3u8
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_480p.m3u8  
 
 #EXTINF:-1 tvg-id="SHOWTV.tr" tvg-name="SHOW TV" tvg-logo="https://i.ibb.co/Rv0rWhZ/show.png" group-title="ULUSAL",SHOW TV (480P)
+#https://mo.ciner.com.tr/showtv/live/showtv.m3u8
 https://ciner.daioncdn.net/showtv/showtv.m3u8?app=showtv_web&ce=3
+
 
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-name="KANAL D"  tvg-logo="https://i.ibb.co/hf2mSz5/kanal-d.png" group-title="ULUSAL",KANAL D (480P)
 https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
@@ -46,7 +48,8 @@ https://demiroren-live.daioncdn.net/teve2/teve2_480p.m3u8
 http://185.234.111.229:8000/play/a01m
 
 #EXTINF:-1 tvg-id="ShowTurk.tr" tvg-name="Show Türk"  tvg-logo="https://i.ibb.co/qJnvXJQ/show-turk.png" group-title="ULUSAL",Show Türk
-https://ciner-live.ercdn.net/showturk/playlist.m3u8?e=1760831238&st=_u3Gh-47Gw09BkNLQSeD2A&tv=1
+#https://ciner-live.ercdn.net/showturk/playlist.m3u8?e=1760831238&st=_u3Gh-47Gw09BkNLQSeD2A&tv=1
+https://ciner-live.ercdn.net/showturk/showturk_720p.m3u8
 
 #EXTINF:-1 tvg-id="ShowMax.tr" tvg-name="SHOW MAX"  tvg-logo="https://i.ibb.co/qJnvXJQ/show-max.png" group-title="ULUSAL",SHOW MAX
 https://raw.githubusercontent.com/rideordie16/YouTube/main/ch/showmax.m3u8 
