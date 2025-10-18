@@ -35,8 +35,8 @@ https://tv8-live.daioncdn.net/tv8/tv8_480p.m3u8
 #EXTINF:-1 tvg-name="NTV" tvg-id="NTV.tr" tvg-logo="https://i.ibb.co/gRR1zpm/ntv.png" group-title="HABER",NTV (480P)
 https://dogus.daioncdn.net/ntv/ntv_480p.m3u8
 
-#EXTINF:-1 tvg-id="CNNTurk.tr" tvg-name="CNN TURK" tvg-language="Turkish" tvg-country="TR" tvg-logo="https://i.ibb.co/bFsmkwJ/cnn-turk.png" group-title="HABER",CNN TURK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTINF:-1 tvg-id="CNNTurk.tr" tvg-name="CNN TURK" tvg-logo="https://i.ibb.co/bFsmkwJ/cnn-turk.png" group-title="HABER",CNN TURK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36 OPR/90.0.0.0
 #EXTVLCOPT:http-referrer=https://www.cnnturk.com/canli-yayin
 https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
 
