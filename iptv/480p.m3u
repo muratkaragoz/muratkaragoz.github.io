@@ -38,7 +38,7 @@ https://tv8-live.daioncdn.net/tv8/tv8_480p.m3u8
 
 #EXTINF:-1 tvg-name="NTV" tvg-id="NTV.tr" tvg-logo="https://i.ibb.co/gRR1zpm/ntv.png" group-title="HABER",NTV (480P)
 #https://dogus.daioncdn.net/ntv/ntv.m3u8?ce=3&&app=7c4bb802-0c41-409e-8cd2-799984995694
-https://dogus.daioncdn.net/ntv/ntv_480p.m3u8
+https://dogus.daioncdn.net/ntv/ntv.m3u8?app=ntv_mweb&ce=3
 
 #EXTINF:-1 tvg-id="CNNTurk.tr" tvg-name="CNN TURK" tvg-logo="https://i.ibb.co/bFsmkwJ/cnn-turk.png" group-title="HABER",CNN TURK WEB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36 OPR/90.0.0.0
@@ -347,11 +347,13 @@ https://live.artidijitalmedya.com/artidijital_konyaolaytv/konyaolaytv/playlist.m
 http://185.234.111.229:8000/play/a05v
 
 #EXTINF:-1 tvg-id="KralTV.tr" tvg-logo="https://i.imgur.com/ch365lh.png" group-title="Music",KRAL TV (480P)
-https://dogus.daioncdn.net/kraltv/kraltv.m3u8?app=998af748-29a7-480e-a343-52385fce91ff
+#https://dogus.daioncdn.net/kraltv/kraltv.m3u8?app=998af748-29a7-480e-a343-52385fce91ff
+https://dogus.daioncdn.net/kraltv/kraltv.m3u8?app=kraltv_mweb&ce=3
 
 #EXTINF:-1 tvg-id="KralPopTV.tr" tvg-logo="https://i.imgur.com/ch365lh.png" group-title="Music",KRAL Pop TV (480P)
 #https://dogus-live.daioncdn.net/kralpoptv/kralpoptv_480p.m3u8
-https://dogus.daioncdn.net/kralpoptv/kralpoptv.m3u8?app=f38a38b4-ce55-4040-8676-9826937d6128
+#https://dogus.daioncdn.net/kralpoptv/kralpoptv.m3u8?app=f38a38b4-ce55-4040-8676-9826937d6128
+https://dogus.daioncdn.net/kralpoptv/kralpoptv.m3u8?app=kralpoptv_mweb&ce=3
 
 #EXTINF:-1 tvg-id="LifeTV.tr" tvg-logo="https://i.imgur.com/lWeJxm0.png" group-title="News",Life TV 
 https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
