@@ -59,7 +59,8 @@ https://demiroren.daioncdn.net/teve2/teve2.m3u8?app=teve2_web&ce=3
 
 #EXTINF:-1 tvg-id="A2TV.tr" tvg-name="A2"  tvg-logo="https://i.ibb.co/7WTsG83/a2.png" group-title="ULUSAL",A2 WEB
 #https://trkvz.daioncdn.net/a2tv/a2tv.m3u8?ce=3&app=59363a60-be96-4f73-9eff-355d0ff2c758
-https://trkvz-live.ercdn.net/a2tv/a2tv.m3u8
+#https://trkvz-live.ercdn.net/a2tv/a2tv.m3u8
+http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
 
 #EXTINF:-1 tvg-id="ShowTurk.tr" tvg-name="Show Türk"  tvg-logo="https://i.ibb.co/qJnvXJQ/show-turk.png" group-title="ULUSAL",Show Türk WEB
 https://ciner-live.ercdn.net/showturk/showturk.m3u8
