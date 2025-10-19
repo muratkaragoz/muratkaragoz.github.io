@@ -91,8 +91,8 @@ https://tv.ensonhaber.com/haberglobal/haberglobal_480p.m3u8
 #EXTINF:-1 tvg-id="TGRTHaber.tr" tvg-name="TGRT HABER HD"  tvg-logo="https://i.ibb.co/K5frjVY/tgrt-haber.png" group-title="HABER",TGRT HABER HD
 https://canli.tgrthaber.com/tgrt.m3u8  
 
-#EXTINF:-1 tvg-id="AHaber.tr" tvg-name="A HABER"  tvg-logo="https://i.ibb.co/Hhjcgm3/a-haber.png" group-title="HABER",A HABER 
-https://c.fulltvizle.com/ahaber/index.m3u8  
+#EXTINF:-1 tvg-id="AHaber.tr" tvg-name="A HABER"  tvg-logo="https://i.ibb.co/Hhjcgm3/a-haber.png" group-title="HABER",A HABER WEB
+https://trkvz-live.ercdn.net/ahaberhd/ahaberhd.m3u8
 
 #EXTINF:-1 tvg-id="24TV.tr" tvg-name="24 TV"   tvg-logo="https://i.ibb.co/tHQpWvn/24.png" group-title="HABER"0,24 
 #https://tv.ensonhaber.com/tv24/tv24_720p.m3u8
