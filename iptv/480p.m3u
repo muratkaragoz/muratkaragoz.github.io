@@ -2,8 +2,6 @@
 
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1" tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" group-title="ULUSAL",TRT 1 360p
 https://trt.daioncdn.net/trt-1//master_360.m3u8?app=clean
-
-#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1" tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" group-title="ULUSAL",TRT 1 360p
 https://tv-trt1.medya.trt.com.tr/master_360.m3u8
 
 #EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV" tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" group-title="ULUSAL",ATV WEB (480p)
