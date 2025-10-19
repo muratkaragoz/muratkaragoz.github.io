@@ -13,8 +13,8 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8
 https://trkvz-live.daioncdn.net/atv/atv_360p.m3u8?app=atv_web&ce=3
 
 #EXTINF:-1 tvg-id="SHOWTV.tr" tvg-name="SHOW TV" tvg-logo="https://i.ibb.co/Rv0rWhZ/show.png" group-title="ULUSAL",SHOW TV 360p
-#https://ciner-live.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&tv=1
-https://ciner-live.daioncdn.net/showtv/showtv_360p.m3u8?app=showtv_web&ce=3
+#https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&tv=1
+https://ciner.daioncdn.net/showtv/showtv_360p.m3u8?app=showtv_web&ce=3
 
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-name="KANAL D"  tvg-logo="https://i.ibb.co/hf2mSz5/kanal-d.png" group-title="ULUSAL",KANAL D 360p
 https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/kanald/kanald_360p.m3u8
