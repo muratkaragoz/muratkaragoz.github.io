@@ -16,35 +16,33 @@ https://ciner.daioncdn.net/showtv/showtv_360p.m3u8?app=showtv_web&ce=3
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-name="KANAL D"  tvg-logo="https://i.ibb.co/hf2mSz5/kanal-d.png" group-title="ULUSAL",KANAL D 360p
 https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/kanald/kanald_360p.m3u8
 
-#EXTINF:-1 tvg-id="KanalD.tr" tvg-name="KANAL D"  tvg-logo="https://i.ibb.co/hf2mSz5/kanal-d.png" group-title="ULUSAL",KANAL D Yedek
+#EXTINF:-1 tvg-id="KanalD.tr" tvg-name="KANAL D"  tvg-logo="https://i.ibb.co/hf2mSz5/kanal-d.png" group-title="YEDEK",KANAL D Yedek
 https://demiroren.daioncdn.net/kanald/kanald_360p.m3u8?app=kanald_web&ce=3
 
-#EXTINF:-1 tvg-id="KanalD.tr" tvg-name="KANAL D"  tvg-logo="https://i.ibb.co/hf2mSz5/kanal-d.png" group-title="ULUSAL",KANAL D Yedek 2
+#EXTINF:-1 tvg-id="KanalD.tr" tvg-name="KANAL D"  tvg-logo="https://i.ibb.co/hf2mSz5/kanal-d.png" group-title="YEDEK",KANAL D Yedek 2
 https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_0_192/playlist.m3u8
 
-#EXTINF:-1 tvg-id="StarTV.tr" tvg-name="STAR TV"  tvg-logo="https://i.ibb.co/hY3Z8zx/star-tv.png" group-title="ULUSAL",STAR TV WEB
-#https://dogus.daioncdn.net/startv/startv.m3u8?ce=3&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9
-#https://dogus.daioncdn.net/startv/startv.m3u8?ce=3&app=1740db13-3ee9-4858-8d2c-b1a9cfaa3718
-https://dogus.daioncdn.net/startv/startv.m3u8?app=startv_web&ce=3
+#EXTINF:-1 tvg-id="StarTV.tr" tvg-name="STAR TV"  tvg-logo="https://i.ibb.co/hY3Z8zx/star-tv.png" group-title="ULUSAL",STAR TV 360p
+#https://dogus.daioncdn.net/startv/startv_360p.m3u8?ce=3&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9
+#https://dogus.daioncdn.net/startv/startv_360p.m3u8?ce=3&app=1740db13-3ee9-4858-8d2c-b1a9cfaa3718
+https://dogus.daioncdn.net/startv/startv_360p.m3u8?app=startv_web&ce=3
 
-#EXTINF:-1 tvg-id="NOWTV.tr" tvg-logo="https://i.imgur.com/5EYjWK7.png" group-title="Entertainment",NOW TV WEB 480p
-#https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?ce=3&app=mobile_web
-#https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?ce=3&app=desktop_web
-https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_480p.m3u8
+#EXTINF:-1 tvg-id="NOWTV.tr" tvg-logo="https://i.imgur.com/5EYjWK7.png" group-title="Entertainment",NOW TV 360p
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_360p.m3u8
 
-#EXTINF:-1 tvg-id="Kanal7.tr" tvg-logo="https://i.imgur.com/0gq9xOm.png" group-title="Entertainment",Kanal 7 WEB
-#https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8
-https://kanal7.daioncdn.net/kanal7/kanal7.m3u8?app=f99587ad-1637-494d-8255-da35b09d17a1&ce=3
+#EXTINF:-1 tvg-id="Kanal7.tr" tvg-logo="https://i.imgur.com/0gq9xOm.png" group-title="Entertainment",Kanal 7 360p
+https://kanal7.daioncdn.net/kanal7/kanal7_360p.m3u8?app=f99587ad-1637-494d-8255-da35b09d17a1&ce=3
 
-#EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV 8"  tvg-logo="https://i.ibb.co/Kr5SFY1/tv8.png" group-title="ULUSAL",TV8 WEB
-#https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
-#https://tv8-tb-live.ercdn.net/tv8-geo/playlist.m3u8
-#https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8.m3u8
-https://tv8.daioncdn.net/tv8/tv8.m3u8?app=tv8_web&ce=3
+#EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV 8"  tvg-logo="https://i.ibb.co/Kr5SFY1/tv8.png" group-title="ULUSAL",TV8 360p
+#https://tv8.daioncdn.net/tv8/tv8_360p.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
+https://tv8.daioncdn.net/tv8/tv8_360p.m3u8?app=tv8_web&ce=3
 
-#EXTINF:-1 tvg-name="NTV" tvg-id="NTV.tr" tvg-logo="https://i.ibb.co/gRR1zpm/ntv.png" group-title="HABER",NTV (480P)
-#https://dogus.daioncdn.net/ntv/ntv.m3u8?ce=3&&app=7c4bb802-0c41-409e-8cd2-799984995694
-https://dogus.daioncdn.net/ntv/ntv.m3u8?app=ntv_web&ce=3
+#EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV 8"  tvg-logo="https://i.ibb.co/Kr5SFY1/tv8.png" group-title="YEDEK",TV8 Yedek
+https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8_360p.m3u8
+
+#EXTINF:-1 tvg-name="NTV" tvg-id="NTV.tr" tvg-logo="https://i.ibb.co/gRR1zpm/ntv.png" group-title="HABER",NTV 360p
+#https://dogus.daioncdn.net/ntv/ntv_360p.m3u8?ce=3&&app=7c4bb802-0c41-409e-8cd2-799984995694
+https://dogus.daioncdn.net/ntv/ntv_360p.m3u8?app=ntv_web&ce=3
 
 #EXTINF:-1 tvg-id="CNNTurk.tr" tvg-name="CNN TURK" tvg-logo="https://i.ibb.co/bFsmkwJ/cnn-turk.png" group-title="HABER",CNN TURK WEB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36 OPR/90.0.0.0
