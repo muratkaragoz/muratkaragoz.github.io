@@ -33,9 +33,11 @@ https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_480p.m3u8
 #https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8
 https://kanal7.daioncdn.net/kanal7/kanal7.m3u8?app=f99587ad-1637-494d-8255-da35b09d17a1&ce=3
 
-#EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV 8"  tvg-logo="https://i.ibb.co/Kr5SFY1/tv8.png" group-title="ULUSAL",TV 8 (480P)
+#EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV 8"  tvg-logo="https://i.ibb.co/Kr5SFY1/tv8.png" group-title="ULUSAL",TV8 WEB
+#https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
+#https://tv8-tb-live.ercdn.net/tv8-geo/playlist.m3u8
 #https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8.m3u8
-https://tv8-live.daioncdn.net/tv8/tv8_480p.m3u8 
+https://tv8.daioncdn.net/tv8/tv8.m3u8?app=tv8_mweb&ce=3
 
 #EXTINF:-1 tvg-name="NTV" tvg-id="NTV.tr" tvg-logo="https://i.ibb.co/gRR1zpm/ntv.png" group-title="HABER",NTV (480P)
 #https://dogus.daioncdn.net/ntv/ntv.m3u8?ce=3&&app=7c4bb802-0c41-409e-8cd2-799984995694
