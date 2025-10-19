@@ -1,25 +1,26 @@
 #EXTM3U x-tvg-url="http://epg.tvcdn.net/guide/tr-guide.xml"
 
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1" tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" group-title="ULUSAL",TRT 1 360p
-{URL1}{URL2}https://trt.daioncdn.net/trt-1//master_360.m3u8?app=clean|https://tv-trt1.medya.trt.com.tr/master_360.m3u8
+https://trt.daioncdn.net/trt-1//master_360.m3u8?app=clean
 
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1" tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" group-title="YEDEK",TRT 1 Yedek
+https://tv-trt1.medya.trt.com.tr/master_360.m3u8
 
-#EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV" tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" group-title="ULUSAL",ATV WEB (480p)
-#https://trkvz.daioncdn.net/atv/atv.m3u8?ce=3&app=d1ce2d40-5256-4550-b02e-e73c185a314e
-#https://trkvz.daioncdn.net/atv/atv.m3u8?ce=3&app=d5eb593f-39d9-4b01-9cfd-4748e8332cf0
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_480p.m3u8
+#EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV" tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" group-title="ULUSAL",ATV 360p
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8
 
-#EXTINF:-1 tvg-id="SHOWTV.tr" tvg-name="SHOW TV" tvg-logo="https://i.ibb.co/Rv0rWhZ/show.png" group-title="ULUSAL",SHOW TV WEB
-#https://mo.ciner.com.tr/showtv/live/showtv.m3u8
+#EXTINF:-1 tvg-id="SHOWTV.tr" tvg-name="SHOW TV" tvg-logo="https://i.ibb.co/Rv0rWhZ/show.png" group-title="ULUSAL",SHOW TV 360p
 #https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&tv=1
-https://ciner.daioncdn.net/showtv/showtv.m3u8?app=showtv_web&ce=3
+https://ciner.daioncdn.net/showtv/showtv_360p.m3u8?app=showtv_web&ce=3
 
-#EXTINF:-1 tvg-id="KanalD.tr" tvg-name="KANAL D"  tvg-logo="https://i.ibb.co/hf2mSz5/kanal-d.png" group-title="ULUSAL",KANAL D WEB
-#https://kanaldvod.duhnet.tv/S2/HLS_LIVE/kanald/playlist.m3u8
-#https://kanaldvod.duhnet.tv/S2/HLS_LIVE/kanald/index.m3u8
-#https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
-#https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/kanald/kanald_480p.m3u8
-https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
+#EXTINF:-1 tvg-id="KanalD.tr" tvg-name="KANAL D"  tvg-logo="https://i.ibb.co/hf2mSz5/kanal-d.png" group-title="ULUSAL",KANAL D 360p
+https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/kanald/kanald_360p.m3u8
+
+#EXTINF:-1 tvg-id="KanalD.tr" tvg-name="KANAL D"  tvg-logo="https://i.ibb.co/hf2mSz5/kanal-d.png" group-title="ULUSAL",KANAL D Yedek
+https://demiroren.daioncdn.net/kanald/kanald_360p.m3u8?app=kanald_web&ce=3
+
+#EXTINF:-1 tvg-id="KanalD.tr" tvg-name="KANAL D"  tvg-logo="https://i.ibb.co/hf2mSz5/kanal-d.png" group-title="ULUSAL",KANAL D Yedek 2
+https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_0_192/playlist.m3u8
 
 #EXTINF:-1 tvg-id="StarTV.tr" tvg-name="STAR TV"  tvg-logo="https://i.ibb.co/hY3Z8zx/star-tv.png" group-title="ULUSAL",STAR TV WEB
 #https://dogus.daioncdn.net/startv/startv.m3u8?ce=3&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9
