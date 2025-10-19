@@ -45,10 +45,10 @@ http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_480p.m3u8
 https://raw.githubusercontent.com/rideordie16/YouTube/main/ch/showmax.m3u8 
 
 #EXTINF:-1 tvg-id="DMAX.tr" tvg-name="DMAX"  tvg-logo="https://i.ibb.co/1LH22gK/dmax.png" group-title="BELGESEL",DMAX (480P)
-https://dogus.daioncdn.net/dmax/dmax_480.m3u8?ce=3&app=5a02c599-d17e-4982-9b04-090934d51af7 
-
+https://dogus-live.daioncdn.net/dmax/dmax_480p.m3u8
+ 
 #EXTINF:-1 tvg-id="TLC.tr" tvg-name="TLC"  tvg-logo="https://i.ibb.co/Cm1nYZK/tlc.png" group-title="BELGESEL",TLC (480P)
-https://dogus.daioncdn.net/tlc/tlc_480.m3u8?ce=3&app=1aca0aa1-06e3-41ff-a8e5-38d7df475469
+https://dogus-live.daioncdn.net/tlc/tlc_480p.m3u8
 
 #EXTINF:-1 tvg-id="CNBCE.tr" tvg-name="CNBCE"  tvg-logo="https://i.ibb.co/Cm1nYZK/tlc.png" group-title="BELGESEL",CNBC-E (480P)
 https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e_480p.m3u8
