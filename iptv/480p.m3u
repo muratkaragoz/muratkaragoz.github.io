@@ -498,7 +498,8 @@ https://vdo.digitalbox.xyz:3986/live/unitvlive.m3u8
 https://live.artidijitalmedya.com/artidijital_urfanatiktv/urfanatiktv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="VavTV.tr" tvg-logo="https://i.imgur.com/jw0gB8L.png" group-title="Undefined",Vav TV WEB
-https://trkvz-live.ercdn.net/varvndvr/varvndvr.m3u8
+#https://trkvz-live.ercdn.net/varvndvr/varvndvr.m3u8
+https://trkvz-live.ercdn.net/vavtv/vavtv.m3u8
 
 #EXTINF:-1 tvg-id="VuslatTV.tr" tvg-logo="" group-title="Undefined",Malatya Vuslat TV 
 https://live.artidijitalmedya.com/artidijital_vuslattv/vuslattv/playlist.m3u8
