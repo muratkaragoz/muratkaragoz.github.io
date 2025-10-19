@@ -17,6 +17,7 @@ https://ciner.daioncdn.net/showtv/showtv.m3u8?app=showtv_web&ce=3
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-name="KANAL D"  tvg-logo="https://i.ibb.co/hf2mSz5/kanal-d.png" group-title="ULUSAL",KANAL D WEB
 #https://kanaldvod.duhnet.tv/S2/HLS_LIVE/kanald/playlist.m3u8
 #https://kanaldvod.duhnet.tv/S2/HLS_LIVE/kanald/index.m3u8
+#https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
 https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
 
 #EXTINF:-1 tvg-id="StarTV.tr" tvg-name="STAR TV"  tvg-logo="https://i.ibb.co/hY3Z8zx/star-tv.png" group-title="ULUSAL",STAR TV WEB
@@ -274,7 +275,7 @@ https://live.artidijitalmedya.com/artidijital_estv/estv/playlist.m3u8
 https://live.artidijitalmedya.com/artidijital_etv/etv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="EuroD.tr" tvg-name="EURO D"  tvg-logo="https://i.ibb.co/jMQTJmh/euro-d.png" group-title="ULUSAL",EURO D
-https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8  
+https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="EuroStar.tr" tvg-name="EUROSTAR"  tvg-logo="https://i.ibb.co/CbdPSX6/euro-star.png" group-title="ULUSAL",EUROSTAR
 https://tgn.bozztv.com/trn03/gt-eurostar/index.m3u8  
