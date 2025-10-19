@@ -7,6 +7,9 @@ https://trt.daioncdn.net/trt-1//master_360.m3u8?app=clean
 https://tv-trt1.medya.trt.com.tr/master_360.m3u8
 
 #EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV" tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" group-title="ULUSAL",ATV 360p
+https://trkvz-live.daioncdn.net/atv/atv_360p.m3u8
+
+#EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV" tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" group-title="ULUSAL",ATV yedek
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8
 
 #EXTINF:-1 tvg-id="SHOWTV.tr" tvg-name="SHOW TV" tvg-logo="https://i.ibb.co/Rv0rWhZ/show.png" group-title="ULUSAL",SHOW TV 360p
@@ -124,8 +127,8 @@ https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
 https://ciner-live.daioncdn.net/bloomberght/bloomberght_480p.m3u8 
 
 #EXTINF:-1 tvg-id="ASpor.tr" tvg-name="A SPOR"  tvg-logo="https://i.ibb.co/rwnrgFV/a-spor.png" group-title="SPOR",A SPOR WEB
-#https://trkvz.daioncdn.net/aspor/aspor.m3u8?ce=3&app=45f847c4-04e8-419a-a56f-2ebf87084765
-#https://trkvz.daioncdn.net/aspor/aspor.m3u8?ce=3&app=b6bf3b55-0120-4e0f-983b-a6c7969f9ec6
+#https://trkvz-live.daioncdn.net/aspor/aspor.m3u8?ce=3&app=45f847c4-04e8-419a-a56f-2ebf87084765
+#https://trkvz-live.daioncdn.net/aspor/aspor.m3u8?ce=3&app=b6bf3b55-0120-4e0f-983b-a6c7969f9ec6
 #https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_480p.m3u8
 https://trkvz-live.ercdn.net/asporhd/asporhd.m3u8
 
@@ -161,16 +164,16 @@ https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8
 
 #EXTINF:-1 tvg-id="MinikaCocuk.tr" tvg-logo="https://i.imgur.com/VCywMTv.png" group-title="Kids",Minika Cocuk WEB
-#https://trkvz.daioncdn.net/minikago_cocuk/minikago_cocuk.m3u8?app=web&ce=3
-#https://trkvz.daioncdn.net/minikago_cocuk/minikago_cocuk.m3u8?app=mweb&ce=3
+#https://trkvz-live.daioncdn.net/minikago_cocuk/minikago_cocuk.m3u8?app=web&ce=3
+#https://trkvz-live.daioncdn.net/minikago_cocuk/minikago_cocuk.m3u8?app=mweb&ce=3
 https://trkvz-live.ercdn.net/minikagococuk/minikagococuk.m3u8
 
 #EXTINF:-1 tvg-id="TRTCocuk.tr" tvg-name="TRT COCUK"  tvg-logo="https://i.ibb.co/mbvwYMB/trt-cocuk.png" group-title="ULUSAL",TRT COCUK (480P)
 https://tv-trtcocuk.medya.trt.com.tr/master_480.m3u8  
 
 #EXTINF:-1 tvg-id="MinikaGo.tr" tvg-logo="https://i.imgur.com/qIoipDq.png" group-title="Kids",Minika Go WEB
-#https://trkvz.daioncdn.net/minikago/minikago.m3u8?app=web&ce=3
-#https://trkvz.daioncdn.net/minikago/minikago.m3u8?app=mweb&ce=3
+#https://trkvz-live.daioncdn.net/minikago/minikago.m3u8?app=web&ce=3
+#https://trkvz-live.daioncdn.net/minikago/minikago.m3u8?app=mweb&ce=3
 https://trkvz-live.ercdn.net/minikago/minikago.m3u8
 
 #EXTINF:-1 tvg-id="DisneyJr.tr" tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/disneyjr.png" group-title="Animation;Kids",Disney Jr. (1080p) [Geo-blocked]
