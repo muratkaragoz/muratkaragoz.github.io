@@ -50,17 +50,18 @@ https://dogus.daioncdn.net/ntv/ntv_360p.m3u8?app=ntv_web&ce=3
 #EXTINF:-1 tvg-id="BeyazTV.tr" tvg-name="BEYAZ TV"  tvg-logo="https://i.ibb.co/1mftzTP/beyaz-tv.png" group-title="ULUSAL",BEYAZ TV 360p
 https://beyaztv.daioncdn.net/beyaztv/beyaztv_360p.m3u8?app=fcd5c66b-da9d-44ba-a410-4f34805c397d&ce=3
 
-#EXTINF:-1 tvg-id="Teve2.tr" tvg-logo="https://i.ibb.co/JRpJc2P/teve2.png" group-title="Undefined",Teve2 WEB
+#EXTINF:-1 tvg-id="Teve2.tr" tvg-logo="https://i.ibb.co/JRpJc2P/teve2.png" group-title="Undefined",Teve2 360p
 https://demiroren.daioncdn.net/teve2/teve2_360p.m3u8?ce=3&app=6aab838a-437e-4a1b-bbd0-e30f79cdbbbd
 
 #EXTINF:-1 tvg-id="A2TV.tr" tvg-name="A2"  tvg-logo="https://i.ibb.co/7WTsG83/a2.png" group-title="ULUSAL",A2 360p
-http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_360p.m3u8
-
-#EXTINF:-1 tvg-id="A2TV.tr" tvg-name="A2"  tvg-logo="https://i.ibb.co/7WTsG83/a2.png" group-title="ULUSAL",A2 Yedek
 https://trkvz-live.daioncdn.net/a2tv/a2tv_360p.m3u8
 
+#EXTINF:-1 tvg-id="A2TV.tr" tvg-name="A2"  tvg-logo="https://i.ibb.co/7WTsG83/a2.png" group-title="ULUSAL",A2 Yedek
+http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_360p.m3u8
+
 #EXTINF:-1 tvg-id="ShowTurk.tr" tvg-name="Show Türk"  tvg-logo="https://i.ibb.co/qJnvXJQ/show-turk.png" group-title="ULUSAL",Show Türk WEB
-https://ciner-live.ercdn.net/showturk/showturk.m3u8
+#https://ciner-live.ercdn.net/showturk/showturk.m3u8
+https://raw.githubusercontent.com/muratkaragoz/youtube_iptv/main/ch/showturk.m3u8
 
 #EXTINF:-1 tvg-id="ShowMax.tr" tvg-name="SHOW MAX"  tvg-logo="https://i.ibb.co/qJnvXJQ/show-max.png" group-title="ULUSAL",SHOW MAX
 https://ciner-live.ercdn.net/showmax/showmax.m3u8
