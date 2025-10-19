@@ -48,7 +48,7 @@ https://dogus.daioncdn.net/ntv/ntv.m3u8?app=ntv_mweb&ce=3
 #EXTVLCOPT:http-referrer=https://www.cnnturk.com/canli-yayin
 https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="BeyazTV.tr" tvg-name="BEYAZ TV"  tvg-logo="https://i.ibb.co/1mftzTP/beyaz-tv.png" group-title="ULUSAL",BEYAZ TV (480P)
+#EXTINF:-1 tvg-id="BeyazTV.tr" tvg-name="BEYAZ TV"  tvg-logo="https://i.ibb.co/1mftzTP/beyaz-tv.png" group-title="ULUSAL",BEYAZ TV WEB
 #https://beyaztv.daioncdn.net/beyaztv/beyaztv.m3u8?app=fcd5c66b-da9d-44ba-a410-4f34805c397d&ce=3
 https://beyaztv.daioncdn.net/beyaztv/beyaztv.m3u8?app=beyaztv_mweb&ce=3
 
