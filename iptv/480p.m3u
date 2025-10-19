@@ -72,6 +72,9 @@ https://dogus.daioncdn.net/dmax/dmax.m3u8?ce=3&app=5a02c599-d17e-4982-9b04-09093
 #EXTINF:-1 tvg-id="TLC.tr" tvg-name="TLC"  tvg-logo="https://i.ibb.co/Cm1nYZK/tlc.png" group-title="BELGESEL",TLC (480P)
 https://dogus.daioncdn.net/tlc/tlc.m3u8?ce=3&app=1aca0aa1-06e3-41ff-a8e5-38d7df475469
 
+#EXTINF:-1 tvg-id="DiziTv.tr" tvg-name="DiziTv"  tvg-logo="https://i.ibb.co/Cm1nYZK/tlc.png" group-title="SİNEMA",Dizi TV WEB
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TV4.tr" tvg-name="TV 4"  tvg-logo="https://i.postimg.cc/FKkHW8KK/tv4.png" group-title="ULUSAL",TV 4
 https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8  
 
