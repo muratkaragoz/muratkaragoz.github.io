@@ -21,6 +21,7 @@ https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_mweb&ce=3
 
 #EXTINF:-1 tvg-id="StarTV.tr" tvg-name="STAR TV"  tvg-logo="https://i.ibb.co/hY3Z8zx/star-tv.png" group-title="ULUSAL",STAR TV WEB
 #https://dogus.daioncdn.net/startv/startv.m3u8?ce=3&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9
+#https://dogus.daioncdn.net/startv/startv.m3u8?ce=3&app=1740db13-3ee9-4858-8d2c-b1a9cfaa3718
 https://dogus.daioncdn.net/startv/startv.m3u8?app=startv_mweb&ce=3
 
 #EXTINF:-1 tvg-id="NOWTV.tr" tvg-logo="https://i.imgur.com/5EYjWK7.png" group-title="Entertainment",NOW TV (480P)
@@ -36,6 +37,7 @@ https://kanal7.daioncdn.net/kanal7/kanal7.m3u8?app=f99587ad-1637-494d-8255-da35b
 https://tv8-live.daioncdn.net/tv8/tv8_480p.m3u8 
 
 #EXTINF:-1 tvg-name="NTV" tvg-id="NTV.tr" tvg-logo="https://i.ibb.co/gRR1zpm/ntv.png" group-title="HABER",NTV (480P)
+#https://dogus.daioncdn.net/ntv/ntv.m3u8?ce=3&&app=7c4bb802-0c41-409e-8cd2-799984995694
 https://dogus.daioncdn.net/ntv/ntv_480p.m3u8
 
 #EXTINF:-1 tvg-id="CNNTurk.tr" tvg-name="CNN TURK" tvg-logo="https://i.ibb.co/bFsmkwJ/cnn-turk.png" group-title="HABER",CNN TURK WEB
@@ -344,8 +346,12 @@ https://live.artidijitalmedya.com/artidijital_konyaolaytv/konyaolaytv/playlist.m
 #EXTINF:-1 tvg-id="KoyTV.tr" tvg-logo="https://i.imgur.com/RcjEHAG.png" group-title="General",Koy TV (720p)
 http://185.234.111.229:8000/play/a05v
 
+#EXTINF:-1 tvg-id="KralTV.tr" tvg-logo="https://i.imgur.com/ch365lh.png" group-title="Music",KRAL TV (480P)
+https://dogus.daioncdn.net/kraltv/kraltv.m3u8?app=998af748-29a7-480e-a343-52385fce91ff
+
 #EXTINF:-1 tvg-id="KralPopTV.tr" tvg-logo="https://i.imgur.com/ch365lh.png" group-title="Music",KRAL Pop TV (480P)
-https://dogus-live.daioncdn.net/kralpoptv/kralpoptv_480p.m3u8
+#https://dogus-live.daioncdn.net/kralpoptv/kralpoptv_480p.m3u8
+https://dogus.daioncdn.net/kralpoptv/kralpoptv.m3u8?app=f38a38b4-ce55-4040-8676-9826937d6128
 
 #EXTINF:-1 tvg-id="LifeTV.tr" tvg-logo="https://i.imgur.com/lWeJxm0.png" group-title="News",Life TV 
 https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
