@@ -19,7 +19,8 @@ https://ciner.daioncdn.net/showtv/showtv.m3u8?app=showtv_mweb&ce=3
 #https://kanaldvod.duhnet.tv/S2/HLS_LIVE/kanald/index.m3u8
 https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_mweb&ce=3
 
-#EXTINF:-1 tvg-id="StarTV.tr" tvg-name="STAR TV"  tvg-logo="https://i.ibb.co/hY3Z8zx/star-tv.png" group-title="ULUSAL",STAR TV (480P)
+#EXTINF:-1 tvg-id="StarTV.tr" tvg-name="STAR TV"  tvg-logo="https://i.ibb.co/hY3Z8zx/star-tv.png" group-title="ULUSAL",STAR TV WEB
+#https://dogus.daioncdn.net/startv/startv.m3u8?ce=3&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9
 https://dogus.daioncdn.net/startv/startv.m3u8?app=startv_mweb&ce=3
 
 #EXTINF:-1 tvg-id="NOWTV.tr" tvg-logo="https://i.imgur.com/5EYjWK7.png" group-title="Entertainment",NOW TV (480P)
