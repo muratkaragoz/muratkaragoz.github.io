@@ -64,8 +64,7 @@ https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
 https://tv-trthaber.medya.trt.com.tr/master_480.m3u8
 
 #EXTINF:-1 tvg-id="HaberturkTV.tr" tvg-name="Haberturk TV"  tvg-logo="https://i.ibb.co/5GmcTH9/haberturk.png" group-title="HABER",HABERTURK (480P)
-#https://tv.ensonhaber.com/haberturk/haberturk_480p.m3u8
-https://ciner-live.daioncdn.net/haberturktv/haberturktv_480p.m3u8
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv_480p.m3u8
 
 #EXTINF:-1 tvg-id="HaberGlobal.tr" tvg-name="HABER GLOBAL"  tvg-logo="https://i.ibb.co/4ZpZWkf/haber-global.png" group-title="HABER",HABER GLOBAL (480P)
 https://tv.ensonhaber.com/haberglobal/haberglobal_480p.m3u8
@@ -106,7 +105,7 @@ https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
 https://ciner-live.daioncdn.net/bloomberght/bloomberght_480p.m3u8 
 
 #EXTINF:-1 tvg-id="ASpor.tr" tvg-name="A SPOR"  tvg-logo="https://i.ibb.co/rwnrgFV/a-spor.png" group-title="SPOR",A SPOR 
-https://c.fulltvizle.com/aspor/index.m3u8 
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_480p.m3u8
 
 #EXTINF:-1 tvg-name="beIN SPORTS HABER" tvg-id="beINSportsHaber.tr" tvg-id="beIN SPORTS HABER" tvg-logo="https://i.ibb.co/GdkQ5mY/bein-sports-haber.png" group-title="SPOR",beIN SPORTS HABER
 https://tgn.bozztv.com/dvrfl05/gin-beinsportshaber/tracks-v1a1/mono.m3u8
@@ -145,7 +144,7 @@ https://tgn.bozztv.com/dvrfl05/gin-minikacocuk/index.m3u8
 https://tv-trtcocuk.medya.trt.com.tr/master_480.m3u8  
 
 #EXTINF:-1 tvg-id="MinikaGo.tr" tvg-logo="https://i.imgur.com/qIoipDq.png" group-title="Kids",Minika Go (480p)
-https://tgn.bozztv.com/dvrfl05/gin-minikago/index.m3u8
+http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_480p.m3u8?tv=1
 
 #EXTINF:-1 tvg-id="DisneyJr.tr" tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/disneyjr.png" group-title="Animation;Kids",Disney Jr. (1080p) [Geo-blocked]
 https://saran-live.ercdn.net/disneyjunior/index.m3u8
@@ -447,7 +446,7 @@ https://sc-kuzeykibrissmarttv.ercdn.net/tv2020/bantp1/playlist_480p.m3u8
 http://stream.taksimbilisim.com:1935/tv52/smil:tv52.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV85.tr" tvg-name="TV 8.5"  tvg-logo="https://i.ibb.co/6PRYHdW/tv85.png" group-title="SPOR",TV 8.5 (480P)
-https://tv8-live.daioncdn.net/tv8bucuk/tv8bucuk_480p.m3u8  
+#https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk_480p.m3u8
 
 #EXTINF:-1 tvg-id="TV8International.tr" tvg-name="TV8 International"  tvg-logo="https://i.ibb.co/ykSLX8Q/tv8-int.png" group-title="ULUSAL",TV 8 INT
 https://tgn.bozztv.com/dvrfl05/gin-tv8int/tracks-v1a1/mono.m3u8  
