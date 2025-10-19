@@ -58,7 +58,7 @@ https://demiroren.daioncdn.net/teve2/teve2_360p.m3u8?ce=3&app=6aab838a-437e-4a1b
 http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_360p.m3u8
 
 #EXTINF:-1 tvg-id="A2TV.tr" tvg-name="A2"  tvg-logo="https://i.ibb.co/7WTsG83/a2.png" group-title="ULUSAL",A2 Yedek
-https://trkvz-live.daioncdn.net/a2tv/a2tv_360p.m3u8
+https://trkvz.daioncdn.net/a2tv/a2tv_360p.m3u8
 
 #EXTINF:-1 tvg-id="ShowTurk.tr" tvg-name="Show Türk"  tvg-logo="https://i.ibb.co/qJnvXJQ/show-turk.png" group-title="ULUSAL",Show Türk WEB
 #https://ciner-live.ercdn.net/showturk/showturk.m3u8
@@ -68,10 +68,10 @@ https://raw.githubusercontent.com/muratkaragoz/youtube_iptv/main/ch/showturk.m3u
 https://ciner-live.ercdn.net/showmax/showmax.m3u8
 
 #EXTINF:-1 tvg-id="DMAX.tr" tvg-name="DMAX"  tvg-logo="https://i.ibb.co/1LH22gK/dmax.png" group-title="BELGESEL",DMAX (480P)
-https://dogus-live.daioncdn.net/dmax/dmax.m3u8?ce=3&app=5a02c599-d17e-4982-9b04-090934d51af7
+https://dogus.daioncdn.net/dmax/dmax_360.m3u8?ce=3&app=5a02c599-d17e-4982-9b04-090934d51af7
 
 #EXTINF:-1 tvg-id="TLC.tr" tvg-name="TLC"  tvg-logo="https://i.ibb.co/Cm1nYZK/tlc.png" group-title="BELGESEL",TLC (480P)
-https://dogus-live.daioncdn.net/tlc/tlc.m3u8?ce=3&app=1aca0aa1-06e3-41ff-a8e5-38d7df475469
+https://dogus.daioncdn.net/tlc/tlc_360.m3u8?ce=3&app=1aca0aa1-06e3-41ff-a8e5-38d7df475469
 
 #EXTINF:-1 tvg-id="CNBCE.tr" tvg-name="CNBCE"  tvg-logo="https://i.ibb.co/Cm1nYZK/tlc.png" group-title="BELGESEL",CNBC-E 360p
 https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e_360p.m3u8
