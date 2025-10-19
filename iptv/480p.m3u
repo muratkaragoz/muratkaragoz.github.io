@@ -458,7 +458,8 @@ https://tv-trt3.live.trt.com.tr/master_480.m3u8
 #EXTINF:-1 tvg-id="TRTAvaz.tr" tvg-name="TRT AVAZ"  tvg-logo="https://i.ibb.co/Mnhmxsn/trt-avaz.png" group-title="BELGESEL",TRT AVAZ (480P)
 https://tv-trtavaz.medya.trt.com.tr/master_480.m3u8 
 
-#EXTINF:-1 tvg-id="TRTDiyanetCocuk.tr" tvg-logo="https://i.imgur.com/8PmXz9t.png" group-title="Kids",TRT Diyanet Çocuk (480P)
+#EXTINF:-1 tvg-id="TRTDiyanetCocuk.tr" tvg-logo="https://i.imgur.com/8PmXz9t.png" group-title="Kids",TRT Diyanet Çocuk WEB
+#https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_480.m3u8
 
 #EXTINF:-1 tvg-id="TRTMuzik.tr" tvg-name="TRT Muzik"  tvg-logo="https://i.ibb.co/4gbPpzC/trt-muzik.png" group-title="MUZIK",TRT MUZIK (480P)
