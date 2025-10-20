@@ -216,6 +216,9 @@ http://185.234.111.229:8000/play/a05j
 #EXTINF:-1 tvg-id="diyartv.tr" tvg-logo="" group-title="Genel",İkra TV(720p) 
 https://live.artidijitalmedya.com/artidijital_diyartv/diyartv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="DOST.tr" tvg-logo="https://dosttv.com/wp-content/uploads/2022/02/dost_logo.png" group-title="Dini",DOST TV
+https://dost.stream.emsal.im/tv/live.m3u8
+
 #EXTINF:-1 tvg-id="DreamTurk.tr" tvg-name="Dream Turk"  tvg-logo="https://i.ibb.co/fxRrKmB/dream-turk.png" group-title="MUZIK",DREAM TURK
 https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8  
 
