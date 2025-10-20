@@ -261,7 +261,10 @@ https://live.artidijitalmedya.com/artidijital_diyartv/diyartv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DMAX.tr" tvg-name="DMAX"  tvg-logo="https://i.ibb.co/1LH22gK/dmax.png" group-title="BELGESEL",DMAX (480P)
 https://dogus-live.daioncdn.net/dmax/dmax_480p.m3u8
- 
+
+#EXTINF:-1 tvg-id="DOST.tr" tvg-logo="https://dosttv.com/wp-content/uploads/2022/02/dost_logo.png" group-title="Dini",DOST TV
+https://dost.stream.emsal.im/tv/live.m3u8
+
 #EXTINF:-1 tvg-id="DreamTurk.tr" tvg-name="Dream Turk"  tvg-logo="https://i.ibb.co/fxRrKmB/dream-turk.png" group-title="MUZIK",DREAM TURK
 https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8  
 
@@ -607,6 +610,9 @@ https://vdo.digitalbox.xyz:3986/live/unitvlive.m3u8
 
 #EXTINF:-1 tvg-id="UrfaNatikTV.tr" tvg-logo="https://i.imgur.com/8KO0uxn.png" group-title="Undefined",Urfa Natik TV
 https://live.artidijitalmedya.com/artidijital_urfanatiktv/urfanatiktv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ULKE.tr" tvg-logo="https://i.imgur.com/wdWR7Qk.png" group-title="Haber",ULKE TV
+https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="VavTV.tr" tvg-logo="https://i.imgur.com/jw0gB8L.png" group-title="Undefined",Vav TV (1080p)
 http://185.234.111.229:8000/play/a01n
