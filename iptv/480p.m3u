@@ -44,6 +44,9 @@ http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_480p.m3u8
 #EXTINF:-1 tvg-id="ShowMax.tr" tvg-name="SHOW MAX"  tvg-logo="https://i.ibb.co/qJnvXJQ/show-max.png" group-title="ULUSAL",SHOW MAX
 https://raw.githubusercontent.com/rideordie16/YouTube/main/ch/showmax.m3u8 
 
+EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-logo="http://assets.tvcdn.net/1da7293b-5598-4e00-a5f8-3bd327af9467.png" group-title="Belgesel",TRT Belgesel
+https://tv-trtbelgesel.medya.trt.com.tr/master_480p.m3u8
+
 #EXTINF:-1 tvg-id="DMAX.tr" tvg-name="DMAX"  tvg-logo="https://i.ibb.co/1LH22gK/dmax.png" group-title="BELGESEL",DMAX (480P)
 https://dogus-live.daioncdn.net/dmax/dmax_480p.m3u8
  
