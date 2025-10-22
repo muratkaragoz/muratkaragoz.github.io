@@ -41,9 +41,6 @@ https://demiroren.daioncdn.net/teve2/teve2_480p.m3u8?ce=3&app=6aab838a-437e-4a1b
 #EXTINF:-1 tvg-id="A2TV.tr" tvg-name="A2 HD"  tvg-logo="https://i.ibb.co/7WTsG83/a2.png" group-title="ULUSAL",A2 
 http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_480p.m3u8
 
-#EXTINF:-1 tvg-id="ShowMax.tr" tvg-name="SHOW MAX"  tvg-logo="https://i.ibb.co/qJnvXJQ/show-max.png" group-title="ULUSAL",SHOW MAX
-https://raw.githubusercontent.com/rideordie16/YouTube/main/ch/showmax.m3u8 
-
 #EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-name="TRT BELGESEL"  tvg-logo="https://i.ibb.co/MkvY46q/trt-belgesel.png" group-title="BELGESEL",TRT BELGESEL (480P)
 https://tv-trtbelgesel.medya.trt.com.tr/master_480.m3u8  
 
