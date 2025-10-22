@@ -10,8 +10,6 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_480p.m3u8
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv_480p.m3u8
 
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-name="KANAL D"  tvg-logo="https://i.ibb.co/hf2mSz5/kanal-d.png" group-title="ULUSAL",KANAL D (480P)
-#https://demiroren.daioncdn.net/kanald/kanald_480p.m3u8?app=kanald_web&ce=3
-#https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
 https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/kanald/kanald_480p.m3u8
 
 #EXTINF:-1 tvg-id="StarTV.tr" tvg-name="STAR TV"  tvg-logo="https://i.ibb.co/hY3Z8zx/star-tv.png" group-title="ULUSAL",STAR TV (480P)
@@ -30,7 +28,7 @@ https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8_480p.m3u8
 https://dogus.daioncdn.net/ntv/ntv_480p.m3u8
 
 #EXTINF:-1 tvg-id="CNNTurk.tr" tvg-name="CNN TURK"  tvg-logo="https://i.ibb.co/bFsmkwJ/cnn-turk.png" group-title="HABER",CNN TURK
-#EXTVLCOPT:http-referrer=https://www.cnnturk.com
+#EXTVLCOPT:http-referrer=https://www.cnnturk.com/canli-yayin/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; rv:126.0) Gecko/20100101 Firefox/126.0
 https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
 
